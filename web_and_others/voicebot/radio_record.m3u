@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Radio Record
+http://air.radiorecord.ru:8101/rr_320
+#EXTINF:-1,Superdiskoteka 90s Radio
+http://air.radiorecord.ru:8102/sd90_320
+#EXTINF:-1,Trancemission Radio
+http://air.radiorecord.ru:8102/tm_320
+#EXTINF:-1,Record Russian Mix
+http://air.radiorecord.ru:8102/rus_320
+#EXTINF:-1,Medlyak FM
+http://air.radiorecord.ru:8102/mdl_320
+#EXTINF:-1,Chillout Radio
+http://air.radiorecord.ru:8102/chil_320
+#EXTINF:-1,Record Club Radio
+http://air.radiorecord.ru:8102/club_320
+#EXTINF:-1,Gop FM Radio
+http://air.radiorecord.ru:8102/gop_320
+#EXTINF:-1,Vip Mix Radio
+http://air.radiorecord.ru:8102/vip_320
+#EXTINF:-1,Pirate Station Radio
+http://air.radiorecord.ru:8102/ps_320
+#EXTINF:-1,Record DEEP
+http://air.radiorecord.ru:8102/deep_320
+#EXTINF:-1,Breaks Radio
+http://air.radiorecord.ru:8102/brks_320
+#EXTINF:-1,Dancecore Radio
+http://air.radiorecord.ru:8102/dc_320
+#EXTINF:-1,Dubstep Radio
+http://air.radiorecord.ru:8102/dub_320
+#EXTINF:-1,Record TRAP
+http://air.radiorecord.ru:8102/trap_320
+#EXTINF:-1,Teodor Radio
+http://air.radiorecord.ru:8102/teo_320
+#EXTINF:-1,YO FM
+http://air.radiorecord.ru:8102/yo_320
+#EXTINF:-1,Pump'N'Club
+http://air.radiorecord.ru:8102/pump_320
+#EXTINF:-1,Record
+http://air.radiorecord.ru:8102/rock_320

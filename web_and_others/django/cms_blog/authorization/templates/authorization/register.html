@@ -1,0 +1,6 @@
+{% extends "authorization/login.html" %}
+{% block signup %}
+<form action="/authorization/register/" method="post">{% csrf_token %} {{form.as_p}}
+    <input  class="button" type="submit" value="Sign Up">
+</form>
+{% endblock %}
