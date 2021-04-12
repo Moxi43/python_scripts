@@ -1,0 +1,3 @@
+<?
+
+	echo(spirntf("Hello World!"));
